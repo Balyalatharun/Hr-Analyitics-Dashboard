@@ -49,7 +49,8 @@ Excel Skills Used
 - Conditional formatting
 - Data visualization
 - GETPIVOTDATA / PivotTable-linked metrics
-  ![HR Analytics Dashboard](dashboard.png)
+  Hr Dashboard
+  ![HR Analyitics Dashboard](dashboard.png)
 
 # Data Cleaning
 
