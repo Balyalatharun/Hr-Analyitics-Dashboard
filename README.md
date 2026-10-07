@@ -50,7 +50,7 @@ Excel Skills Used
 - Data visualization
 - GETPIVOTDATA / PivotTable-linked metrics
   Hr Dashboard
-  ![HR Analyitics Dashboard](dashboard.png)
+  ![Hr Analyitics Dashboard](dashboard.png)
 
 # Data Cleaning
 
